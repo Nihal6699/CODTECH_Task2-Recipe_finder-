@@ -1,0 +1,17 @@
+# macOS system directories
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Cache and temporary files
+*.swp
+*.swo
+*.tmp
+.cache/
+.Trash/
+
+# Logs
+*.log
