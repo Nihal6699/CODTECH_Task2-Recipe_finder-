@@ -39,6 +39,15 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 2.<img width="1425" alt="Screenshot 2024-08-26 at 6 26 13 PM" src="https://github.com/user-attachments/assets/2e51dde0-f350-464a-9bb2-f94e7f52717c">
 
+3.<img width="1440" alt="Screenshot 2024-08-26 at 6 26 31 PM" src="https://github.com/user-attachments/assets/2902165c-212d-41d2-9358-a182d0a71dc7">
+
+4.<img width="1382" alt="Screenshot 2024-08-26 at 6 26 47 PM" src="https://github.com/user-attachments/assets/2212c7ac-eeb0-4a5d-a1ec-a1cc4af151e3">
+
+5.<img width="1407" alt="Screenshot 2024-08-26 at 6 27 00 PM" src="https://github.com/user-attachments/assets/6f30dbaa-d76a-4607-99ae-796b8cdc154e">
+
+6.<img width="1438" alt="Screenshot 2024-08-26 at 6 27 08 PM" src="https://github.com/user-attachments/assets/ab8c14e3-051e-4d75-a135-0298cd8294a9">
+
+
 
 
 
