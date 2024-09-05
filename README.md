@@ -14,7 +14,8 @@
 
 ### Project: RECIPE FINDER WEB APPLICATION
 
-### Objective: To create a Recipe Finder web application that allows users to search for recipes based on ingredients using the ThemealDB API. The application provides detailed recipe information, including ingredients, instructions, and images, with a user-friendly interface designed using modern front-end technologies.
+### Objective: 
+To create a Recipe Finder web application that allows users to search for recipes based on ingredients using the ThemealDB API. The application provides detailed recipe information, including ingredients, instructions, and images, with a user-friendly interface designed using modern front-end technologies.
 
 ### Key Activities:
 - **User Interface Design**
