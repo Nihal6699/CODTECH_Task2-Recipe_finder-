@@ -18,17 +18,18 @@
 To create a Recipe Finder web application that allows users to search for recipes based on ingredients using the ThemealDB API. The application provides detailed recipe information, including ingredients, instructions, and images, with a user-friendly interface designed using modern front-end technologies.
 
 ### Key Activities:
-- **User Interface Design**
-- **Ingredient-Based Search**
-- **API Integration**
-- **Responsive Design**
+- **1.User Interface Design**
+- **2.Ingredient-Based Search**
+- **3.API Integration**
+- **4.Responsive Design**
   
 ### Technologies Used
--**HTML**
--**CSS**
--**JAVASCRIPT**
--**ThemealDB API**
--**SCSS**
+-**1.HTML**
+-**2.CSS**
+-**3.JAVASCRIPT**
+-**4.ThemealDB API**
+-**5.SCSS**
+
 
 
 # Getting Started with Create React App
